@@ -1,0 +1,15 @@
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/bin/Debug/net7.0/builder_pattern
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/bin/Debug/net7.0/builder_pattern.deps.json
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/bin/Debug/net7.0/builder_pattern.runtimeconfig.json
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/bin/Debug/net7.0/builder_pattern.dll
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/bin/Debug/net7.0/builder_pattern.pdb
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/obj/Debug/net7.0/builder_pattern.csproj.AssemblyReference.cache
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/obj/Debug/net7.0/builder_pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/obj/Debug/net7.0/builder_pattern.AssemblyInfoInputs.cache
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/obj/Debug/net7.0/builder_pattern.AssemblyInfo.cs
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/obj/Debug/net7.0/builder_pattern.csproj.CoreCompileInputs.cache
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/obj/Debug/net7.0/builder_pattern.dll
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/obj/Debug/net7.0/refint/builder_pattern.dll
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/obj/Debug/net7.0/builder_pattern.pdb
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/obj/Debug/net7.0/builder_pattern.genruntimeconfig.cache
+/Users/hakangul/Projects/DotNetApps/DesignPatterns/builder_pattern/obj/Debug/net7.0/ref/builder_pattern.dll
